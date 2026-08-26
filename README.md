@@ -1,2 +1,2 @@
 # sql-queries
-"Practiced foundational SQL queries including SELECT, WHERE, JOIN, GROUP BY, and ORDER BY. Built as part of my programming learning journey."
+SQL query practice repository covering SELECT statements, WHERE clauses, JOINs, GROUP BY, and aggregate functions. Part of my ongoing journey building a full-stack tech portfolio for software placements.
